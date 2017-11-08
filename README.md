@@ -1,5 +1,5 @@
 # Azure-Machine-Learning
-<h2>This repository holds the slides and documentation from Code$izzler for Azure Machine Learning. Thanks <a href="https://twitter.com/tweet4naju"> @Najuma Mahamuth for your contributions</h2>
+<h2>This repository holds the slides and documentation from Code$izzler for Azure Machine Learning. Thanks <a href="https://twitter.com/tweet4naju"> @Najuma Mahamuth for your contributions </a></h2>
 
 <b>Content:</b></br>
 Introduction into AzureML	</br>
